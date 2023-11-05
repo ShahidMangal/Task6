@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+#book-list, #add-book, #search-books {
+    width: 30%;
+    border: 1px solid #ccc;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/
+li {
+    margin-bottom: 8px;
+}
+
+
+#search-bar {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
